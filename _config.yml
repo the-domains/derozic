@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.07969052
+  lightness: 0.5084679
+  brandStrength: 0.5587505
+  brandColors:
+    - '#000000'
+    - '#BDBDBD'
+    - '#696969'
+    - '#008000'
+    - '#30A4C4'
+  rhythmicContrast: 0.3530656
+typography_spectrum: 0.4659515
+name: DEROZIC
